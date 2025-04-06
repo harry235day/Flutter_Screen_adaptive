@@ -1,10 +1,11 @@
 name: screen_adaptive
 description: "flutter screen adaptive"
 version: 0.0.1
-homepage:
+homepage: https://github.com/harry235day/Flutter_Screen_adaptive
+repository: https://github.com/harry235day/Flutter_Screen_adaptive.git
 
 environment:
-  sdk: ^3.7.2
+  sdk: ^3.0.0
   flutter: ">=1.17.0"
 
 dependencies:
